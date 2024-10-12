@@ -12,12 +12,9 @@
 //     - If input is valid, return it
 //       - Otherwise, ask user to try again
 
-// 3. Define function determineWinner(playerChoice, computerChoice):
-//    - If choices are the same, return "It's a tie!"
-//   - If player wins, return "You win!"
-//     - If computer wins, return "Computer wins!"
+//
 
-// 4. Define function playGame:
+// Define function playGame:
 //    - Get computer's choice
 //   - Get player's choice
 //     - Determine the winner
